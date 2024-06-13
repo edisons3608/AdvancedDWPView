@@ -1,6 +1,6 @@
 # Advanced DWP View Split
 
-DWPSPlit is a Google Chrome extension designed to provide ease of access for Mathnasium instructors.
+DWPSPlit is a Google Chrome extension designed to increase usability of Instruction Manager and DWP 2.0 for Mathnasium instructors.
 
 ## Installations
 
