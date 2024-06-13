@@ -1,15 +1,19 @@
-# DWPSplit
+# Advanced DWP View Split
 
 DWPSPlit is a Google Chrome extension designed to provide ease of access for Mathnasium instructors.
 
-## Installation
+## Installations
 
 1. Click the green "Code" button.
+![alt text](images/1.png)
 2. Click the "Download ZIP"
+![alt text](images/2.png)
 3. Unzip the package
 4. In Google Chrome, navigate to [Chrome Extensions](chrome://extensions/)
-5. Upload the DWPSplitMain folder when prompted.
+5. Click on "Load unpacked" and upload the DWPSplitMain folder when prompted.
+![alt text](images/3.png)
 6. Pin the Chrome Extension
+![alt text](images/4.png)
 
 ## Usage
 
