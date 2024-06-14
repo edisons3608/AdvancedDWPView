@@ -20,4 +20,13 @@ DWPSPlit is a Google Chrome extension designed to increase usability of Instruct
 Sign into Radius and navigate to the Instruction Manager. Click on the DWPSplitMain shortcut in the Chrome menu bar. The page should split into two sections.
 
 Here's a quick demo:
-![alt text](images/5.mov)
+![alt text](https://github.com/edisons3608/AdvancedDWPView/assets/57467707/2ce14138-2de1-4c83-93fe-33d451dae478)
+
+
+
+
+
+
+
+
+
