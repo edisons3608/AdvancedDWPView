@@ -3,7 +3,8 @@
     "version": "1.0",
     "manifest_version": 3,
     "action": {
-      "default_title": "Click to open the Advanced DWP View Split"
+      "default_title": "Click to open the Advanced DWP View Split",
+      "default_icon": "logo.png"
     },
     "permissions": ["activeTab", "scripting"],
     "background": {
