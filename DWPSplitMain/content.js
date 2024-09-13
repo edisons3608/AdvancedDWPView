@@ -123,7 +123,7 @@ if (window.self === window.top) {
                                 // Your code here...
                                 if (window.self === window.top) {
                                     //alert(`/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName)
-                                    iframeobj.src = `/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName
+                                    iframeobj.src = `/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&centerId=36`+`&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName
                                     //alert(iframeobj.src)
                                 }
                     
@@ -177,7 +177,7 @@ if (window.self === window.top) {
                                 // Your code here...
                                 if (window.self === window.top) {
                                     //alert(`/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName)
-                                    iframeobj.src = `/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName
+                                    iframeobj.src = `/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&centerId=36`+`&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName
                                     //alert(iframeobj.src)
                                 }
                     
@@ -268,7 +268,7 @@ if (window.self === window.top) {
                                     // Your code here...
                                     if (window.self === window.top) {
                                         //alert(`/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName)
-                                        iframeobj.src = `/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName
+                                        iframeobj.src = `/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&centerId=36`+`&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName
                                         //alert(iframeobj.src)
                                     }
                         
@@ -322,7 +322,7 @@ if (window.self === window.top) {
                                     // Your code here...
                                     if (window.self === window.top) {
                                         //alert(`/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName)
-                                        iframeobj.src = `/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName
+                                        iframeobj.src = `/DWP/Index?studentId=` + studentId + `&attendanceId=` + attendanceId + `&centerId=36`+`&dwpEntryId=` + dwpEntryId, `` + studentDetails.StudentName
                                         //alert(iframeobj.src)
                                     }
                         
